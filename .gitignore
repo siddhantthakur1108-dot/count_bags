@@ -1,0 +1,10 @@
+*.yolov8
+Dataset_versions/
+*.mp4
+*.MP4
+counting_begs_v2/
+runs/
+*.yaml
+*.pt
+*.onnx
+*.ipynb
